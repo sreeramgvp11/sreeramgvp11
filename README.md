@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreeramgvp11(Sreeram)
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning java,c++ and python
+- 🌱 I’m currently learning c++,java and python
 - 💞️ I’m looking to collaborate on  projects
 
 
