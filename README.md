@@ -55,7 +55,7 @@ I’m exploring how systems scale—from single-threaded programs to distributed
 - Implemented authentication, game state handling, REST APIs, and responsive UI
 - Worked in an Agile/Scrum team with GitHub issues, pull requests, and sprint planning
 
-### ⚡ Parallel Matrix Multiplication
+### ⚡ [Parallel Matrix Multiplication](https://github.com/sreeramgvp11/sdpproject)
 - Implemented matrix multiplication and Strassen’s algorithm using **C++** and **OpenMP**
 - Focused on parallel execution, performance tuning, and scalability
 - Explored how algorithm design impacts runtime on multi-core systems
