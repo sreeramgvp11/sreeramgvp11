@@ -46,7 +46,7 @@ I’m exploring how systems scale—from single-threaded programs to distributed
 
 ## To be honest I'm  still learning these
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,go,js,ts,react,nodejs,fastapi,docker,aws,linux,git,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,go,js,ts,react,nodejs,fastapi,,aws,linux,git,pytorch,tensorflow" />
 </p>
 ## 🚀 Featured Projects
 
