@@ -8,41 +8,56 @@
 
 # 👋 Hey, I’m Sreeram (@sreeramgvp11)
 
-🎓 MS CISE @ University of Florida  
-⚙️ Building systems that are fast, scalable, and actually work under load  
+🎓 MS CISE @ University of Florida
+⚙️ Building scalable systems and applied AI solutions for real-world impact
 
 ---
 
 ## 🧠 Interests
-- High Performance Computing (HPC) & Parallel Systems  
-- Distributed Systems & Backend Engineering  
-- Performance Optimization (C++, systems-level thinking)  
-- Machine Learning & Applied AI Systems  
+
+* Distributed Systems & Backend Engineering
+* High Performance Computing (HPC) & Parallel Systems
+* Applied AI & Agentic Systems
+* Performance Optimization (C++, systems-level thinking)
 
 ---
 
 ## 🚀 Currently Working On
-- Parallel algorithms (OpenMP, MPI) and performance tuning  
-- Full-stack systems (Angular + Go) with real-world constraints  
-- Multi-label ML models and improving evaluation + inference efficiency  
+
+* Smart Video Intelligence Agent (Agentic AI pipeline for video understanding)
+* Backend systems with FastAPI, async processing, and scalable architecture
+* Integrating ML models into production-ready pipelines
+* Designing systems that handle real-world scale and latency constraints
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced systems programming in C++  
-- Concurrency, memory models, and low-level performance  
-- Distributed system design patterns  
-- Large Language Models (LLMs) & efficient inference  
+
+* System design for large-scale distributed systems
+* LangGraph & multi-agent AI workflows
+* LLMs, RAG pipelines, and efficient inference
+* Advanced C++ & parallel programming (OpenMP, MPI)
 
 ---
 
 ## 🤝 Looking to Collaborate On
-- Systems / backend projects that involve real scalability challenges  
-- HPC or parallel computing problems  
-- Performance-focused engineering (not just building, but optimizing)
+
+* Backend / distributed systems projects at scale
+* Applied AI systems (LLMs, agentic workflows, ML pipelines)
+* Performance-critical engineering problems
+
+---
+
+## 🎯 Actively Seeking
+
+Software Engineering / AI Engineering / Backend roles (Internships & Full-Time)
+
+---
 
 ## ⚡ Fun Fact
-I’m exploring how systems scale—from single-threaded programs to distributed architectures 🚀
+
+I’m deeply interested in how systems evolve—from single-threaded programs to large-scale distributed and intelligent systems 🚀
+
 
 ## To be honest I'm  still learning these
 <p align="center">
